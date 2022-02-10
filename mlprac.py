@@ -14,5 +14,5 @@ for mm in range(a):
                 j.append(t)
                 k.append(j)
     k.sort()
-    print(k[0][1]-k[0][0])
+    print(mm)
         
